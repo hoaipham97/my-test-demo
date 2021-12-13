@@ -13,7 +13,7 @@ Requirement: before running application, please install:
 
 - pandas: python3 -m pip install pandas
 
-To run application:
+To run application, run parallel 2 files below:
 
 - Run fetch data: python3 fetch_data.py
 
