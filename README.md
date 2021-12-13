@@ -1,4 +1,4 @@
-# my-test-demo
+# Weather Cities
 This is my source to fetch data and process data with simple python code. 
 
 2 steps to fetch and process data:
